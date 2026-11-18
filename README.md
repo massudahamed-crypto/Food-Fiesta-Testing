@@ -2,6 +2,8 @@
 
 **Food Fiesta** is a Spring Boot fullstack dining management application built with **Java 25**, **Spring Boot 3.4.2**, **Thymeleaf**, **Spring Security**, **Spring Data JPA**, and **H2** for quick local development.
 
+Spring Boot food ordering system with Selenium automation testing.
+
 The project can also be configured to use PostgreSQL for deployment or production-style testing.
 
 ## Project Tags
